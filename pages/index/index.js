@@ -8,5 +8,8 @@ Page({
   },
   onLoad: function () {
     console.log('onload')
+    http.get('/user/index',{}).then( res => {
+      console.log(res)
+    })
   },
 })

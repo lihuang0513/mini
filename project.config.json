@@ -23,7 +23,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "2.10.1",
 	"appid": "wx0ee2fbcc7c1bab3b",
-	"projectname": "localmini",
+	"projectname": "mini",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},
